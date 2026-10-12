@@ -1,3 +1,5 @@
+# Beat tracking by dynamic programming
+
 A beat tracker is implemented based on the work of Ellis
 [1], which combines a step of tempo induction with
 a dynamic programming algorithm. The solution is designed
